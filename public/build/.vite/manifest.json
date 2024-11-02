@@ -1,0 +1,49 @@
+{
+  "resources/css/style.css": {
+    "file": "css/style.min.css",
+    "src": "resources/css/style.css",
+    "isEntry": true
+  },
+  "resources/img/authentication/email-verification-img.jpg": {
+    "file": "icons/login-img.jpg",
+    "src": "resources/img/authentication/email-verification-img.jpg"
+  },
+  "resources/img/authentication/forgot-password-img.jpg": {
+    "file": "icons/login-img.jpg",
+    "src": "resources/img/authentication/email-verification-img.jpg"
+  },
+  "resources/img/authentication/login-img.jpg": {
+    "file": "icons/login-img.jpg",
+    "src": "resources/img/authentication/email-verification-img.jpg"
+  },
+  "resources/img/authentication/register-img.jpg": {
+    "file": "icons/login-img.jpg",
+    "src": "resources/img/authentication/email-verification-img.jpg"
+  },
+  "resources/img/authentication/reset-password-img.jpg": {
+    "file": "icons/login-img.jpg",
+    "src": "resources/img/authentication/email-verification-img.jpg"
+  },
+  "resources/img/coming-soon.png": {
+    "file": "icons/coming-soon.png",
+    "src": "resources/img/coming-soon.png"
+  },
+  "resources/img/icons/calendars.svg": {
+    "file": "icons/calendars.svg",
+    "src": "resources/img/icons/calendars.svg"
+  },
+  "resources/img/icons/check.svg": {
+    "file": "icons/check.svg",
+    "src": "resources/img/icons/check.svg"
+  },
+  "resources/img/icons/dropdown.svg": {
+    "file": "icons/dropdown.svg",
+    "src": "resources/img/icons/dropdown.svg"
+  },
+  "resources/js/script.js": {
+    "file": "js/script.js",
+    "name": "script",
+    "src": "resources/js/script.js",
+    "isEntry": true
+  }
+}
