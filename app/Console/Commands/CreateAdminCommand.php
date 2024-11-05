@@ -35,7 +35,7 @@ class CreateAdminCommand extends Command
             $email              = $this->argument("email");
             $phone_number       = $this->argument("phone_number");
             $email_verified_at  = Carbon::now();
-            $password           = Hash::make("password");
+            $password           = Hash::make("123456");
             $role               = $this->argument("role");
 
             //Todo => create a new user
